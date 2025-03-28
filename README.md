@@ -1,3 +1,5 @@
+This tool was discovered and chosen to enter the 2025 TensorReady AI Agentic Innovation Competition! Was entered into the competition in March. 
+
 This tool works with OpenAI's application programming interface and was built as a tool to be used personally for sending prompts to and from OpenAI's large language models. There are two executables. "discuss.sh" uses the voice recognition to transcribe a collected audio file into a text file. This transcribed file is then sent to OpenAI. A response is returned in the form of a json response, which is then converted into a readable text file called "output". 
 
 The second executable for sending written prompts to OpenAI. This allows for sending a typed out prompt to OpenAI. It is faster and more efficient because it does not have the overhead of voice transcription and converting a heavy .wav file into a .txt file. I wanted to have them both at my expense when developing.
